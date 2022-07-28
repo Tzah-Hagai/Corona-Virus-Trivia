@@ -1,0 +1,20 @@
+1;0;COVID-19 is a virus and not a bacteria;True;False
+2;1;Where did COVID-19 was first seen?;Wuhan, China;Texas, United States;Nagoya, Japan
+3;1;What are COVID-19 common symptoms?;fever, cough and fatigue; loss sense of sight, headaches; nausea and dizziness
+4;0;COVID-19 can only be spread via blood contant;False;True
+5;1;How does COVID-19 usually spreads?;via small droplets produced by coughing, sneezing, and talking;via contant with objects, mostly wood;through making eye contact
+6;1;How long COVID-19 survives on surfaces?;No more than 72 hours;No more than 10 days;No more than 3 hours
+7;0;COVID-19 highest risk population are kids;False;True
+8;0;Animals cannot spread COVID-19 through their furs;True;False
+9;1;How many confirmed cases are of COVID-19 in the world?;More than 14.9 Million;More than 200 Million;No more than 2 Million
+10;0;COVID-19 can be diagnosed only through blood sample;False;True
+11;0;Currently, COVID-19 has no cure available;True;False
+12;1;COVID-19 first arrived to Israel in:;22 February, 2020;15 April, 2020;20 February, 2019
+13;1;Which Country has the most confirmed COVID-19 cases?;United States;Germany;Brazil
+14;0;Recovery time from COVID-19 is usually 3 days;False;True
+15;0;COVID-19 Pandemic has caused a huge change in the life of most people;True;False
+16;1;How many countries COVID-19 affected?;More than 188 countries;Less than 50 countries;No more than 100 countries
+17;1;As of July 22, 2020, how many deaths COVID-19 caused?;More than 616,000;Less than 330,000;Less than 100,000
+18;0;Coronavirus on surfaces can easily be cleaned with common household difectants;true;false
+19;1;When was the outbreak of the coronavirus disease first identified?;December 2019;May 2020;June 2019
+20;0;Currently, there are no preventive measure to COVID-19;False;True21;0;Jumpie is cute;False;True
